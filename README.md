@@ -23,7 +23,7 @@
 # Functions⚙️
 ```
 
-   ┌── [+] IP LOOkup
+   ┌── [+] IP LOOKUP
    │    ├── TOOL INFO
    │    ├── PASSWORD HASHER
    │    ├── SITE CLONER
