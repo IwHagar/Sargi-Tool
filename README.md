@@ -44,7 +44,7 @@ and Enjoyer to the tool !
 
 
 # Credits 🔗
->  ### 🏴 CREATOR : Sargi & Kizarusb
+>  ### 🏴 CREATOR : Sargi & Kizarush
 >  ###  https://discord.gg/EwYKDdQWHY THE DISCORD
 >  ### https://discord.gg/armada the team
 >  ### 🏴 The Graphist : Prxda 
